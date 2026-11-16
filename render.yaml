@@ -1,0 +1,36 @@
+# Optional: Render "Blueprint". Most people just create the Web Service by hand (see DEPLOYMENT.md); this file does the same thing.
+services:
+  - type: web
+    name: souley-de-tour-api
+    runtime: node
+    rootDir: server
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: NODE_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: JWT_EXPIRES_IN
+        value: 7d
+      - key: CLIENT_URL
+        sync: false
+      - key: AI_API_KEY
+        sync: false
+      - key: AI_BASE_URL
+        value: https://api.openai.com/v1
+      - key: AI_MODEL
+        value: gpt-4o-mini
+      - key: STATS_TIMEZONE
+        value: Asia/Manila
+      # Optional: real photos for the Home mood cards. Leave empty and Wikimedia Commons is used (no key needed).
+      - key: UNSPLASH_ACCESS_KEY
+        sync: false
+      - key: PEXELS_API_KEY
+        sync: false

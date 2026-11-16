@@ -1,0 +1,35 @@
+{
+  "name": "souleydetour-server",
+  "version": "1.0.0",
+  "description": "SOULEY de Tour API - Express + MongoDB",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node src/seed/seed.js",
+    "seed:reset": "node src/seed/seed.js --reset",
+    "reset:admin": "node src/seed/reset-admin.js",
+    "import:spots": "node src/seed/import-spots.js",
+    "import:spots:publish": "node src/seed/import-spots.js --publish",
+    "import:food": "node src/seed/import-spots.js src/seed/data/southern-leyte-food.json",
+    "import:food:publish": "node src/seed/import-spots.js src/seed/data/southern-leyte-food.json --publish",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "express-validator": "^7.2.0",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "supertest": "^7.3.1"
+  }
+}

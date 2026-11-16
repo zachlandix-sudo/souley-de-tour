@@ -1,0 +1,36 @@
+// Experience sub-component keys (live status, trip canvas, soundscape, viewers).
+export const more5 = {
+  en: {
+    'live.title': 'Live conditions', 'live.near': 'Live conditions near {name}', 'live.checking': 'Checking conditions…', 'live.unavailable': 'Live conditions are unavailable right now.',
+    'canvas.title': 'Your curated trip canvas', 'canvas.lead': 'Drag stops to reorder them (or use the arrow buttons). The timeline below updates as you go.',
+    'canvas.empty': 'Nothing here yet. Use “Save to canvas” on a stop above.', 'canvas.earlier': 'Move {name} earlier', 'canvas.later': 'Move {name} later',
+    'canvas.details': 'Details', 'canvas.timeline': 'Trip timeline', 'canvas.start': 'Start time', 'canvas.total': 'Total:',
+    'canvas.export': 'Export trip guide (PDF)', 'canvas.clear': 'Clear canvas', 'canvas.popup': 'Allow pop-ups for this site to export the guide.',
+    'canvas.printHint': 'The guide opens in a print window. Choose “Save as PDF” as the destination.',
+    'sound.title': 'Soundscape', 'sound.unsupported': "Audio isn't supported in this browser.", 'sound.ambient': 'Ambient ocean waves', 'sound.pause': 'Pause', 'sound.play': 'Play',
+    'pano.aria': '{alt}. Drag or use the left and right arrow keys to pan the photo', 'pano.hint': 'Drag to pan the view',
+    'dn.day': 'Day', 'dn.night': 'Night (simulated)', 'dn.slide': 'Slide between day and night',
+  },
+  fil: {
+    'live.title': 'Live na kondisyon', 'live.near': 'Live na kondisyon malapit sa {name}', 'live.checking': 'Sinusuri ang kondisyon…', 'live.unavailable': 'Hindi available ngayon ang live na kondisyon.',
+    'canvas.title': 'Ang piniling trip canvas mo', 'canvas.lead': 'I-drag ang mga hintuan para ayusin ang pagkakasunod (o gamitin ang arrow button). Nag-a-update ang timeline sa ibaba.',
+    'canvas.empty': 'Wala pa dito. Gamitin ang “I-save sa canvas” sa isang hintuan sa itaas.', 'canvas.earlier': 'Iusog ang {name} nang mas maaga', 'canvas.later': 'Iusog ang {name} nang mas huli',
+    'canvas.details': 'Detalye', 'canvas.timeline': 'Timeline ng biyahe', 'canvas.start': 'Oras ng simula', 'canvas.total': 'Kabuuan:',
+    'canvas.export': 'I-export ang gabay sa biyahe (PDF)', 'canvas.clear': 'Linisin ang canvas', 'canvas.popup': 'Payagan ang pop-up sa site na ito para ma-export ang gabay.',
+    'canvas.printHint': 'Bubukas ang gabay sa print window. Piliin ang “Save as PDF” bilang destinasyon.',
+    'sound.title': 'Tunog ng paligid', 'sound.unsupported': 'Hindi sinusuportahan ng browser na ito ang audio.', 'sound.ambient': 'Tunog ng alon sa dagat', 'sound.pause': 'I-pause', 'sound.play': 'I-play',
+    'pano.aria': '{alt}. I-drag o gamitin ang kaliwa at kanang arrow key para i-pan ang larawan', 'pano.hint': 'I-drag para i-pan ang tanawin',
+    'dn.day': 'Araw', 'dn.night': 'Gabi (simulasyon)', 'dn.slide': 'I-slide sa pagitan ng araw at gabi',
+  },
+  ceb: {
+    'live.title': 'Live nga kahimtang', 'live.near': 'Live nga kahimtang duol sa {name}', 'live.checking': 'Gisusi ang kahimtang…', 'live.unavailable': 'Wala magamit karon ang live nga kahimtang.',
+    'canvas.title': 'Imong gipili nga trip canvas', 'canvas.lead': 'I-drag ang mga hunonganan aron usbon ang han-ay (o gamita ang arrow button). Mag-update ang timeline sa ubos.',
+    'canvas.empty': 'Wala pay sulod. Gamita ang “I-save sa canvas” sa usa ka hunonganan sa ibabaw.', 'canvas.earlier': 'Ipauna ang {name}', 'canvas.later': 'Ipaulahi ang {name}',
+    'canvas.details': 'Detalye', 'canvas.timeline': 'Timeline sa biyahe', 'canvas.start': 'Oras sa pagsugod', 'canvas.total': 'Kinatibuk-an:',
+    'canvas.export': 'I-export ang giya sa biyahe (PDF)', 'canvas.clear': 'Limpyohi ang canvas', 'canvas.popup': 'Tugoti ang pop-up niining site aron ma-export ang giya.',
+    'canvas.printHint': 'Mabuksan ang giya sa print window. Pilia ang “Save as PDF” isip destinasyon.',
+    'sound.title': 'Tingog sa palibot', 'sound.unsupported': 'Dili suportado sa browser ang audio.', 'sound.ambient': 'Tingog sa balod sa dagat', 'sound.pause': 'I-pause', 'sound.play': 'I-play',
+    'pano.aria': '{alt}. I-drag o gamita ang wala ug tuo nga arrow key aron i-pan ang hulagway', 'pano.hint': 'I-drag aron i-pan ang tanaw',
+    'dn.day': 'Adlaw', 'dn.night': 'Gabii (simulasyon)', 'dn.slide': 'I-slide tali sa adlaw ug gabii',
+  },
+};

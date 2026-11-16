@@ -1,0 +1,2580 @@
+[
+  {
+    "name": "Maasin Cathedral",
+    "municipality": "Maasin City",
+    "barangay": "",
+    "address": "Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage",
+      "Culture"
+    ],
+    "activities": [
+      "Sightseeing",
+      "Photography"
+    ],
+    "description": "Cathedral of Nuestra Senora de la Asuncion on the National Road, the largest and oldest church in the city (17th-century origins, current building completed 1968, seat of the Diocese of Maasin). Open mainly around mass; there is mass daily at 11 am.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "trip101.com",
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 1,
+    "slug": "maasin-cathedral",
+    "photo": "/spots/maasin-cathedral.jpg"
+  },
+  {
+    "name": "Monte Cueva Shrine",
+    "municipality": "Maasin City",
+    "barangay": "Rizal",
+    "address": "Brgy. Rizal, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage",
+      "Culture"
+    ],
+    "activities": [
+      "Pilgrimage",
+      "Sightseeing"
+    ],
+    "description": "Chapel built inside a cave in Barangay Rizal (Sitio Basak), about 2 km from the city center; pilgrims climb about 550 concrete steps. A 30 ft statue of Our Lady of the Assumption stands above the Via Crucis. Official name: Shrine of the Most Precious Blood.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)",
+      "trip101.com"
+    ],
+    "id": 2,
+    "slug": "monte-cueva-shrine",
+    "photo": "/spots/monte-cueva-shrine.jpg"
+  },
+  {
+    "name": "Camp Danao Forest Park",
+    "municipality": "Maasin City",
+    "barangay": "Malapoc Sur",
+    "address": "Brgy. Malapoc Sur, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Nature walk",
+      "Wildlife viewing"
+    ],
+    "description": "320-hectare forest park about 15 km from Maasin proper at roughly 1,099 ft elevation, former Maasin City Forest Park and Boy Scouts jamboree site, with a lagoon, cave, trails, 360-degree viewing deck and camp area.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)",
+      "hotels.com"
+    ],
+    "id": 3,
+    "slug": "camp-danao-forest-park",
+    "photo": "/spots/camp-danao-forest-park.jpg"
+  },
+  {
+    "name": "Guinsohotan Cave and Falls",
+    "municipality": "Maasin City",
+    "barangay": "",
+    "address": "Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Cave visit",
+      "Swimming"
+    ],
+    "description": "Large subterranean cave about 15 km from the city center at around 276 m elevation. Wade or swim in to find small in-cave falls, bats and stalactite formations; the water flows out in cascades into a natural lagoon for bathing and picnics. Listed with Cagnituan Falls.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)",
+      "hotels.com"
+    ],
+    "id": 4,
+    "slug": "guinsohotan-cave-and-falls",
+    "photo": "/spots/guinsohotan-cave-and-falls.jpg"
+  },
+  {
+    "name": "Cagnito-an Falls",
+    "municipality": "Maasin City",
+    "barangay": "Cagnituan",
+    "address": "Brgy. Cagnituan, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Swimming",
+      "Cave visit"
+    ],
+    "description": "Cagnituan (Guinsohotan) Falls has its own underground river in a small forest; following it leads to Guinsohotan Cave. Reach it by multicab to Brgy. Maria Clara, then a habal-habal to Cagnituan.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "trip101.com",
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 5,
+    "slug": "cagnito-an-falls",
+    "photo": "/spots/cagnito-an-falls.jpg"
+  },
+  {
+    "name": "Bogo Bird Paradise",
+    "municipality": "Maasin City",
+    "barangay": "",
+    "address": "Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Bird watching"
+    ],
+    "description": "Bird-watching spot listed under things to see in Maasin.",
+    "confirmCheck": "check location",
+    "note": "Only one source and no detail found; verify it is open.",
+    "sources": [
+      "wikivoyage.org"
+    ],
+    "id": 6,
+    "slug": "bogo-bird-paradise",
+    "photo": "/spots/bogo-bird-paradise.jpg"
+  },
+  {
+    "name": "Busay Falls",
+    "municipality": "Maasin City",
+    "barangay": "Combado",
+    "address": "Brgy. Combado, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Swimming",
+      "Sightseeing"
+    ],
+    "description": "One of Maasin City's waterfalls, in Barangay Combado, popular for swimming and picnics.",
+    "confirmCheck": "",
+    "note": "Trip101 places it in Brgy. Combado, Maasin. A Pintuyan travel guide also lists a Busay Falls near Pintuyan, so there may be two falls with this name. Confirm before publishing.",
+    "sources": [
+      "trip101.com",
+      "hotels.com",
+      "wikivoyage.org"
+    ],
+    "id": 7,
+    "slug": "busay-falls",
+    "photo": "/spots/busay-falls.jpg"
+  },
+  {
+    "name": "Tangkaan Beach",
+    "municipality": "Padre Burgos",
+    "barangay": "Tangkaan",
+    "address": "Brgy. Tangkaan, Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Nature"
+    ],
+    "activities": [
+      "Swimming",
+      "Snorkeling",
+      "Diving"
+    ],
+    "description": "White coral-sand beach with rock formations and a view across to Limasawa; good for families and a frequent dive and snorkel spot. Bring your own food.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "wikipedia.org",
+      "hinunagna.blogspot.com",
+      "scmp.com"
+    ],
+    "id": 8,
+    "slug": "tangkaan-beach",
+    "photo": "/spots/tangkaan-beach.jpg"
+  },
+  {
+    "name": "Padre Burgos Castle Resort",
+    "municipality": "Padre Burgos",
+    "barangay": "Tangkaan",
+    "address": "Brgy. Tangkaan, Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Diving",
+      "Swimming",
+      "Dining"
+    ],
+    "description": "Castle-style resort above a private beach in Tangkaan, with a dive shop and restaurant.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "wikipedia.org",
+      "touristspotsfinder.com"
+    ],
+    "id": 9,
+    "slug": "padre-burgos-castle-resort",
+    "photo": "/spots/padre-burgos-castle-resort.jpg"
+  },
+  {
+    "name": "Likay-Likay Beach",
+    "municipality": "Padre Burgos",
+    "barangay": "",
+    "address": "Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Snorkeling",
+      "Fishing"
+    ],
+    "description": "Beach in Padre Burgos known for fishing and snorkeling.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 10,
+    "slug": "likay-likay-beach",
+    "photo": "/spots/likay-likay-beach.jpg"
+  },
+  {
+    "name": "Bukana (Buenavista)",
+    "municipality": "Padre Burgos",
+    "barangay": "Buenavista",
+    "address": "Brgy. Buenavista, Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Sightseeing",
+      "Fish watching"
+    ],
+    "description": "Small calm pool of water in Buenavista that serves as a home for many fish.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 11,
+    "slug": "bukana-buenavista",
+    "photo": "/spots/bukana-buenavista.jpg"
+  },
+  {
+    "name": "Tangka-an Point Dive Site",
+    "municipality": "Padre Burgos",
+    "barangay": "Tangkaan",
+    "address": "Brgy. Tangkaan, Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Nature"
+    ],
+    "activities": [
+      "Diving"
+    ],
+    "description": "Marine protected area near the mouth of Sogod Bay with a soft-coral slope to about 27 m, barrel sponges and gorgonian fans; frogfish, turtles and the occasional whale shark.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "uwphotographyguide.com",
+      "divessi.com"
+    ],
+    "id": 12,
+    "slug": "tangka-an-point-dive-site",
+    "photo": "/spots/tangka-an-point-dive-site.jpg"
+  },
+  {
+    "name": "Adrien's Cove and Gunter's Wall",
+    "municipality": "Padre Burgos",
+    "barangay": "Tangkaan",
+    "address": "Brgy. Tangkaan, Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Nature"
+    ],
+    "activities": [
+      "Diving"
+    ],
+    "description": "Adrien's Cove lies on the east side of Tangka-an Point, part of the largest marine sanctuary in Southern Leyte; Gunter's Wall is a reef wall that starts at the cove and runs south.",
+    "confirmCheck": "check location",
+    "note": "Sources disagree: one dive guide puts Adrian's Cove on Limasawa, another on Tangka-an Point (Padre Burgos).",
+    "sources": [
+      "divessi.com"
+    ],
+    "id": 13,
+    "slug": "adrien-s-cove-and-gunter-s-wall",
+    "photo": "/spots/adrien-s-cove-and-gunter-s-wall.jpg"
+  },
+  {
+    "name": "Santa Sofia Dive Site",
+    "municipality": "Padre Burgos",
+    "barangay": "",
+    "address": "Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Nature"
+    ],
+    "activities": [
+      "Diving"
+    ],
+    "description": "Marine protected area just south of Padre Burgos: a gentle hard-coral slope down to a sandy bottom around 25 m, good for macro (nudibranchs, pygmy seahorses, scorpionfish) and hawksbill turtles.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "uwphotographyguide.com"
+    ],
+    "id": 14,
+    "slug": "santa-sofia-dive-site",
+    "photo": "/spots/santa-sofia-dive-site.jpg"
+  },
+  {
+    "name": "Padre Burgos Pier Dive Sites",
+    "municipality": "Padre Burgos",
+    "barangay": "",
+    "address": "Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure"
+    ],
+    "activities": [
+      "Diving",
+      "Snorkeling"
+    ],
+    "description": "A 150 m working pier in the middle of the town shoreline, regarded as one of the best night dives in the Philippines. Muck diving in about 5 m of water with octopus, flatworms, nudibranchs, seahorses, stargazers and lionfish. Divers have the pier on Mondays, Wednesdays and Fridays; anglers use it on other days.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "uwphotographyguide.com",
+      "pia.gov.ph"
+    ],
+    "id": 15,
+    "slug": "padre-burgos-pier-dive-sites",
+    "photo": "/spots/padre-burgos-pier-dive-sites.jpg"
+  },
+  {
+    "name": "Napantao Marine Sanctuary",
+    "municipality": "San Francisco",
+    "barangay": "Napantao",
+    "address": "Brgy. Napantao, San Francisco, Southern Leyte",
+    "latitude": 10.0575,
+    "longitude": 125.1576,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Nature"
+    ],
+    "activities": [
+      "Diving",
+      "Snorkeling"
+    ],
+    "description": "First designated marine protected area in Sogod Bay, set up with Coral Cay Conservation in 2002. A wall across the bay from Padre Burgos, split into north and south sections, with anthias, gorgonian fans, frogfish and nudibranchs; whale sharks are sometimes seen.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "uwphotographyguide.com",
+      "touristspotsfinder.com",
+      "divessi.com"
+    ],
+    "id": 16,
+    "slug": "napantao-marine-sanctuary",
+    "photo": "/spots/napantao-marine-sanctuary.jpg"
+  },
+  {
+    "name": "Son-ok (Sun-ok) Marine Sanctuary",
+    "municipality": "Pintuyan",
+    "barangay": "Son-ok",
+    "address": "Brgy. Son-ok, Pintuyan, Southern Leyte",
+    "latitude": 9.9446,
+    "longitude": 125.2492,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Nature"
+    ],
+    "activities": [
+      "Whale shark watching",
+      "Diving",
+      "Snorkeling"
+    ],
+    "description": "Marine sanctuary at Son-ok Point on Panaon Island, with the most documented whale shark encounters in Southern Leyte (roughly October to April).",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "divessi.com",
+      "wikipedia.org",
+      "scmp.com"
+    ],
+    "id": 17,
+    "slug": "son-ok-sun-ok-marine-sanctuary",
+    "photo": "/spots/son-ok-sun-ok-marine-sanctuary.jpg"
+  },
+  {
+    "name": "Panaon Island Coast",
+    "municipality": "San Francisco",
+    "barangay": "",
+    "address": "San Francisco, Southern Leyte",
+    "latitude": 10.0575,
+    "longitude": 125.1576,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Nature"
+    ],
+    "activities": [
+      "Sightseeing",
+      "Swimming"
+    ],
+    "description": "Island at the southern end of the province with pebble and coral beaches and clear water. Covers several towns, so the pin is only the San Francisco town center.",
+    "confirmCheck": "",
+    "note": "Regional area; use a specific beach pin when you have one.",
+    "sources": [
+      "touristspotsfinder.com",
+      "wikivoyage.org"
+    ],
+    "id": 18,
+    "slug": "panaon-island-coast",
+    "photo": "/spots/panaon-island-coast.jpg"
+  },
+  {
+    "name": "National Shrine of the First Mass in the Philippines",
+    "municipality": "Limasawa",
+    "barangay": "Magallanes",
+    "address": "Brgy. Magallanes, Limasawa, Southern Leyte",
+    "latitude": 9.9243,
+    "longitude": 125.0744,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage",
+      "Culture"
+    ],
+    "activities": [
+      "Pilgrimage",
+      "History tour"
+    ],
+    "description": "Shrine marking the traditional site of the first Catholic Mass in the Philippines on March 31, 1521. Main pilgrimage site of the island.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com",
+      "wikipedia.org"
+    ],
+    "id": 19,
+    "slug": "national-shrine-of-the-first-mass-in-the-philippines",
+    "photo": "/spots/national-shrine-of-the-first-mass-in-the-philippines.jpg"
+  },
+  {
+    "name": "First Cross Monument",
+    "municipality": "Limasawa",
+    "barangay": "",
+    "address": "Limasawa, Southern Leyte",
+    "latitude": 9.9243,
+    "longitude": 125.0744,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage"
+    ],
+    "activities": [
+      "History tour",
+      "Photography"
+    ],
+    "description": "Monument on Limasawa linked to the first Mass site.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com"
+    ],
+    "id": 20,
+    "slug": "first-cross-monument",
+    "photo": "/spots/first-cross-monument.jpg"
+  },
+  {
+    "name": "Dakdak Beach",
+    "municipality": "Limasawa",
+    "barangay": "Lugsongan",
+    "address": "Brgy. Lugsongan, Limasawa, Southern Leyte",
+    "latitude": 9.9243,
+    "longitude": 125.0744,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming",
+      "Snorkeling"
+    ],
+    "description": "Cream-sand beach in Lugsongan about 10 minutes from Triana port, with air-conditioned rooms, open-air huts and a small restaurant (Dak-dak Beach Resort).",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 21,
+    "slug": "dakdak-beach",
+    "photo": "/spots/dakdak-beach.jpg"
+  },
+  {
+    "name": "Gamot Beach",
+    "municipality": "Limasawa",
+    "barangay": "Cabulihan",
+    "address": "Brgy. Cabulihan, Limasawa, Southern Leyte",
+    "latitude": 9.9243,
+    "longitude": 125.0744,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming",
+      "Snorkeling"
+    ],
+    "description": "Beach in Cabulihan on Limasawa.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com"
+    ],
+    "id": 22,
+    "slug": "gamot-beach",
+    "photo": "/spots/gamot-beach.jpg"
+  },
+  {
+    "name": "Limasawa Island Lagoon",
+    "municipality": "Limasawa",
+    "barangay": "San Agustin",
+    "address": "Brgy. San Agustin, Limasawa, Southern Leyte",
+    "latitude": 9.9243,
+    "longitude": 125.0744,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Adventure"
+    ],
+    "activities": [
+      "Kayaking",
+      "Snorkeling",
+      "Cliff jumping"
+    ],
+    "description": "Lagoon resort about 30 minutes from the town proper with kayaking, boating, snorkeling and cliff jumping.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com"
+    ],
+    "id": 23,
+    "slug": "limasawa-island-lagoon",
+    "photo": "/spots/limasawa-island-lagoon.jpg"
+  },
+  {
+    "name": "Limasawa Caves",
+    "municipality": "Limasawa",
+    "barangay": "",
+    "address": "Limasawa, Southern Leyte",
+    "latitude": 9.9243,
+    "longitude": 125.0744,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Cave exploring"
+    ],
+    "description": "Caves in San Agustin and Magallanes that can be explored on the island.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 24,
+    "slug": "limasawa-caves",
+    "photo": "/spots/limasawa-caves.jpg"
+  },
+  {
+    "name": "Molopolo Fish and Bird Sanctuary",
+    "municipality": "Macrohon",
+    "barangay": "Molopolo",
+    "address": "Brgy. Molopolo, Macrohon, Southern Leyte",
+    "latitude": 10.0766,
+    "longitude": 124.9401,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Bird watching",
+      "Nature walk"
+    ],
+    "description": "Molopolo-Sta. Cruz Marine Park in Macrohon: feed the fish a few meters from the highway, boat through the mangroves, and see a sea turtle hatching ground. Won third prize for Best Marine Protected Area in the Philippines in 2013.",
+    "confirmCheck": "",
+    "note": "Official site confirms Macrohon (Brgys. Molopolo and Sta. Cruz).",
+    "sources": [
+      "sites.google.com (Provincial Tourism)",
+      "scribd.com"
+    ],
+    "id": 25,
+    "slug": "molopolo-fish-and-bird-sanctuary",
+    "photo": "/spots/molopolo-fish-and-bird-sanctuary.jpg"
+  },
+  {
+    "name": "Cambaro Cave",
+    "municipality": "Macrohon",
+    "barangay": "Cambaro",
+    "address": "Brgy. Cambaro, Macrohon, Southern Leyte",
+    "latitude": 10.0766,
+    "longitude": 124.9401,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Cave exploring"
+    ],
+    "description": "Billed as the caving capital of Southern Leyte: more than 100 caves with speleothems, rock formations, cave corals and tunnels, reached after a mountain trek.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 26,
+    "slug": "cambaro-cave",
+    "photo": "/spots/cambaro-cave.jpg"
+  },
+  {
+    "name": "Kuting Reef Resort",
+    "municipality": "Macrohon",
+    "barangay": "Asuncion",
+    "address": "Brgy. Asuncion, Macrohon, Southern Leyte",
+    "latitude": 10.0766,
+    "longitude": 124.9401,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Diving",
+      "Snorkeling",
+      "Swimming"
+    ],
+    "description": "Beach resort with a private beach and a reef right in front.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "expedia.com",
+      "wikivoyage.org"
+    ],
+    "id": 27,
+    "slug": "kuting-reef-resort",
+    "photo": "/spots/kuting-reef-resort.jpg"
+  },
+  {
+    "name": "Florencia Island",
+    "municipality": "Macrohon",
+    "barangay": "",
+    "address": "Macrohon, Southern Leyte",
+    "latitude": 10.0766,
+    "longitude": 124.9401,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Nature"
+    ],
+    "activities": [
+      "Island visit",
+      "Snorkeling"
+    ],
+    "description": "Small island listed among Macrohon eco-tourism attractions.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "scribd.com"
+    ],
+    "id": 28,
+    "slug": "florencia-island",
+    "photo": "/spots/florencia-island.jpg"
+  },
+  {
+    "name": "Banahaw Cold Spring",
+    "municipality": "Macrohon",
+    "barangay": "San Joaquin",
+    "address": "Brgy. San Joaquin, Macrohon, Southern Leyte",
+    "latitude": 10.0766,
+    "longitude": 124.9401,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Swimming",
+      "Relaxing"
+    ],
+    "description": "Man-made pool filled with cold spring water, about 13 km (20-30 minutes) from Maasin. Day cottages, overnight rooms, barbecue area and a restaurant on site.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 29,
+    "slug": "banahaw-cold-spring",
+    "photo": "/spots/banahaw-cold-spring.jpg"
+  },
+  {
+    "name": "Seven Falls",
+    "municipality": "Macrohon",
+    "barangay": "San Roque",
+    "address": "Brgy. San Roque, Macrohon, Southern Leyte",
+    "latitude": 10.0766,
+    "longitude": 124.9401,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Waterfall hiking",
+      "Swimming"
+    ],
+    "description": "Series of waterfalls about a 10-minute walk from the national road.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "southernleytefestivals.blogspot.com"
+    ],
+    "id": 30,
+    "slug": "seven-falls",
+    "photo": "/spots/seven-falls.jpg"
+  },
+  {
+    "name": "Baluarte Watchtower Ruins (Caaga)",
+    "municipality": "Malitbog",
+    "barangay": "Caaga",
+    "address": "Brgy. Caaga, Malitbog, Southern Leyte",
+    "latitude": 10.1581,
+    "longitude": 125.0012,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage"
+    ],
+    "activities": [
+      "History tour",
+      "Photography"
+    ],
+    "description": "Ruins of an 18th-century watchtower (baluarte) south of the poblacion, one of two near the church.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 31,
+    "slug": "baluarte-watchtower-ruins-caaga",
+    "photo": "/spots/baluarte-watchtower-ruins-caaga.jpg"
+  },
+  {
+    "name": "Baluarte Watchtower Ruins (Abgao)",
+    "municipality": "Malitbog",
+    "barangay": "Abgao",
+    "address": "Brgy. Abgao, Malitbog, Southern Leyte",
+    "latitude": 10.1581,
+    "longitude": 125.0012,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage"
+    ],
+    "activities": [
+      "History tour",
+      "Photography"
+    ],
+    "description": "Second ruined watchtower, north of the poblacion, with inscriptions on its stone walls.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 32,
+    "slug": "baluarte-watchtower-ruins-abgao",
+    "photo": "/spots/baluarte-watchtower-ruins-abgao.jpg"
+  },
+  {
+    "name": "Agas-Agas Bridge",
+    "municipality": "Sogod",
+    "barangay": "Kahupian",
+    "address": "Brgy. Kahupian, Sogod, Southern Leyte",
+    "latitude": 10.4972523,
+    "longitude": 124.9979911,
+    "coordPrecision": "site (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Heritage"
+    ],
+    "activities": [
+      "Sightseeing",
+      "Photography"
+    ],
+    "description": "Prestressed concrete bridge on the Pan-Philippine Highway, about 350 m long and 89 m high, with a tourist pavilion, parking and food kiosks.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "wikipedia.org",
+      "suroy.ph"
+    ],
+    "id": 33,
+    "slug": "agas-agas-bridge",
+    "photo": "/spots/agas-agas-bridge.jpg"
+  },
+  {
+    "name": "Zipline Leyte (Agas-Agas Zipline)",
+    "municipality": "Sogod",
+    "barangay": "Kahupian",
+    "address": "Brgy. Kahupian, Sogod, Southern Leyte",
+    "latitude": 10.4972523,
+    "longitude": 124.9979911,
+    "coordPrecision": "site (Wikipedia)",
+    "categories": [
+      "Adventure"
+    ],
+    "activities": [
+      "Zip lining"
+    ],
+    "description": "Twin zipline opened in April 2011, about 880 m long, gliding diagonally above the bridge and gorge.",
+    "confirmCheck": "",
+    "note": "Pin is the bridge; the zipline stations are close by.",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 34,
+    "slug": "zipline-leyte-agas-agas-zipline",
+    "photo": "/spots/zipline-leyte-agas-agas-zipline.jpg"
+  },
+  {
+    "name": "Magsuhot Park",
+    "municipality": "Sogod",
+    "barangay": "",
+    "address": "Sogod, Southern Leyte",
+    "latitude": 10.3856,
+    "longitude": 124.9806,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Nature walk",
+      "Swimming"
+    ],
+    "description": "Forested park of about 500 hectares, 3 km from the Phil-Japan Highway at Agas-Agas Bridge, with 20 m falls dropping into one basin; Lum-an and Mahayhay Falls (about 60 m) lie roughly 12 km farther.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 35,
+    "slug": "magsuhot-park",
+    "photo": "/spots/magsuhot-park.jpg"
+  },
+  {
+    "name": "Sogod Bay",
+    "municipality": "Sogod",
+    "barangay": "",
+    "address": "Sogod, Southern Leyte",
+    "latitude": 10.35,
+    "longitude": 125.0,
+    "coordPrecision": "approximate (bay center)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Diving",
+      "Snorkeling",
+      "Whale shark watching"
+    ],
+    "description": "Long central bay of the province, the main dive and snorkel area, with whale sharks between roughly October and April.",
+    "confirmCheck": "",
+    "note": "Pin is the approximate bay center used in your RightNowStrip, not an official point.",
+    "sources": [
+      "wikipedia.org",
+      "pia.gov.ph"
+    ],
+    "id": 36,
+    "slug": "sogod-bay",
+    "photo": "/spots/sogod-bay.jpg"
+  },
+  {
+    "name": "Kagut-an Falls",
+    "municipality": "Silago",
+    "barangay": "Katipunan",
+    "address": "Brgy. Katipunan, Silago, Southern Leyte",
+    "latitude": 10.5284,
+    "longitude": 125.1627,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Swimming",
+      "Sightseeing"
+    ],
+    "description": "Falls about 1 km from the national highway, paired with a second falls close by.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 37,
+    "slug": "kagut-an-falls",
+    "photo": "/spots/kagut-an-falls.jpg"
+  },
+  {
+    "name": "Kagut-an Dako Dos Falls",
+    "municipality": "Silago",
+    "barangay": "Katipunan",
+    "address": "Brgy. Katipunan, Silago, Southern Leyte",
+    "latitude": 10.5284,
+    "longitude": 125.1627,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Sightseeing"
+    ],
+    "description": "Companion falls in the same barangay, singled out in the municipal tourism write-up.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 38,
+    "slug": "kagut-an-dako-dos-falls",
+    "photo": "/spots/kagut-an-dako-dos-falls.jpg"
+  },
+  {
+    "name": "Kagut-an Gamay Falls",
+    "municipality": "Silago",
+    "barangay": "Katipunan",
+    "address": "Brgy. Katipunan, Silago, Southern Leyte",
+    "latitude": 10.5284,
+    "longitude": 125.1627,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Sightseeing"
+    ],
+    "description": "Smaller falls in the same barangay.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 39,
+    "slug": "kagut-an-gamay-falls",
+    "photo": "/spots/kagut-an-gamay-falls.jpg"
+  },
+  {
+    "name": "Sitio Kawayan Falls",
+    "municipality": "Silago",
+    "barangay": "Mercedes",
+    "address": "Brgy. Mercedes, Silago, Southern Leyte",
+    "latitude": 10.5284,
+    "longitude": 125.1627,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Swimming"
+    ],
+    "description": "Roughly 10 m falls about 1 km from the Mercedes barangay road.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 40,
+    "slug": "sitio-kawayan-falls",
+    "photo": "/spots/sitio-kawayan-falls.jpg"
+  },
+  {
+    "name": "Tubod Falls and Cave",
+    "municipality": "Silago",
+    "barangay": "Tubod",
+    "address": "Brgy. Tubod, Silago, Southern Leyte",
+    "latitude": 10.5284,
+    "longitude": 125.1627,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Sightseeing",
+      "Cave visit"
+    ],
+    "description": "Distinctively shaped falls with a cave on the opposite side, joining the Lanang River downstream.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 41,
+    "slug": "tubod-falls-and-cave",
+    "photo": "/spots/tubod-falls-and-cave.jpg"
+  },
+  {
+    "name": "Silago Beach",
+    "municipality": "Silago",
+    "barangay": "",
+    "address": "Silago, Southern Leyte",
+    "latitude": 10.5284,
+    "longitude": 125.1627,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming",
+      "Relaxing"
+    ],
+    "description": "Fine brown-sand beach about 1 km long at the Lanang River mouth. The town is promoted as the surfing capital of Southern Leyte.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "wikipedia.org",
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 42,
+    "slug": "silago-beach",
+    "photo": "/spots/silago-beach.jpg"
+  },
+  {
+    "name": "Hindag-an Falls and Forest Park",
+    "municipality": "Saint Bernard",
+    "barangay": "Hindag-an",
+    "address": "Brgy. Hindag-an, Saint Bernard, Southern Leyte",
+    "latitude": 10.2801,
+    "longitude": 125.1383,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Swimming",
+      "Picnic"
+    ],
+    "description": "Cascading falls feeding man-made pools with built-in waterslides, with cottages, restrooms and barbecue areas; about 30 minutes from Saint Bernard town proper. No overnight stay.",
+    "confirmCheck": "",
+    "note": "Entrance fee not confirmed.",
+    "sources": [
+      "sites.google.com (Provincial Tourism)",
+      "medium.com"
+    ],
+    "id": 43,
+    "slug": "hindag-an-falls-and-forest-park",
+    "photo": "/spots/hindag-an-falls-and-forest-park.jpg"
+  },
+  {
+    "name": "Uwan-Uwanan Falls",
+    "municipality": "Libagon",
+    "barangay": "Kawayan",
+    "address": "Brgy. Kawayan, Libagon, Southern Leyte",
+    "latitude": 10.2968,
+    "longitude": 125.0505,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Nature"
+    ],
+    "activities": [
+      "Canyoning",
+      "Trekking",
+      "Rappelling"
+    ],
+    "description": "Gorge adventure of about a two-hour trek with rappelling and bamboo ladders along cascades.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "southernleytefestivals.blogspot.com"
+    ],
+    "id": 44,
+    "slug": "uwan-uwanan-falls",
+    "photo": "/spots/uwan-uwanan-falls.jpg"
+  },
+  {
+    "name": "Bosai Falls",
+    "municipality": "Liloan",
+    "barangay": "Ilag",
+    "address": "Brgy. Ilag, Liloan, Southern Leyte",
+    "latitude": 10.1581,
+    "longitude": 125.1253,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Swimming"
+    ],
+    "description": "Cold cascading falls in Barangay Ilag.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "southernleytefestivals.blogspot.com"
+    ],
+    "id": 45,
+    "slug": "bosai-falls",
+    "photo": "/spots/bosai-falls.jpg"
+  },
+  {
+    "name": "El Paraiso Beach",
+    "municipality": "Liloan",
+    "barangay": "",
+    "address": "Liloan, Southern Leyte",
+    "latitude": 10.1581,
+    "longitude": 125.1253,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming",
+      "Overnight stay"
+    ],
+    "description": "Beach with house rentals; reservation needed.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "medium.com"
+    ],
+    "id": 46,
+    "slug": "el-paraiso-beach",
+    "photo": "/spots/el-paraiso-beach.jpg"
+  },
+  {
+    "name": "Alejos Falls",
+    "municipality": "Bontoc",
+    "barangay": "Dao",
+    "address": "Brgy. Dao, Bontoc, Southern Leyte",
+    "latitude": 10.3559,
+    "longitude": 124.9693,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Waterfall hiking",
+      "Swimming"
+    ],
+    "description": "Falls in cold bluish water, about 30 minutes by vehicle from the main road to Dao, then a 35-minute trek.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "southernleytefestivals.blogspot.com"
+    ],
+    "id": 47,
+    "slug": "alejos-falls",
+    "photo": "/spots/alejos-falls.jpg"
+  },
+  {
+    "name": "San Pedro Island",
+    "municipality": "Hinunangan",
+    "barangay": "",
+    "address": "Hinunangan, Southern Leyte",
+    "latitude": 10.3946,
+    "longitude": 125.1985,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Nature"
+    ],
+    "activities": [
+      "Camping",
+      "Snorkeling",
+      "Trekking"
+    ],
+    "description": "Island off Hinunangan with a white pebble beach, clear water, coral and views of sunrise and sunset; limited cottages, some resorts.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "hinunagna.blogspot.com",
+      "sites.google.com"
+    ],
+    "id": 48,
+    "slug": "san-pedro-island",
+    "photo": "/spots/san-pedro-island.jpg"
+  },
+  {
+    "name": "San Pablo Island",
+    "municipality": "Hinunangan",
+    "barangay": "",
+    "address": "Hinunangan, Southern Leyte",
+    "latitude": 10.3946,
+    "longitude": 125.1985,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Nature"
+    ],
+    "activities": [
+      "Snorkeling",
+      "Island hopping"
+    ],
+    "description": "Neighbor of San Pedro island with white-sand beach and coral gardens.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com",
+      "touristspotsfinder.com"
+    ],
+    "id": 49,
+    "slug": "san-pablo-island",
+    "photo": "/spots/san-pablo-island.jpg"
+  },
+  {
+    "name": "Mount Nacolod",
+    "municipality": "Hinunangan",
+    "barangay": "",
+    "address": "Hinunangan, Southern Leyte",
+    "latitude": 10.3946,
+    "longitude": 125.1985,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "description": "Prominent peak in Hinunangan, about 948 m according to Wikipedia.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 50,
+    "slug": "mount-nacolod",
+    "photo": "/spots/mount-nacolod.jpg"
+  },
+  {
+    "name": "Lake Danao",
+    "municipality": "San Juan",
+    "barangay": "",
+    "address": "San Juan, Southern Leyte",
+    "latitude": 10.2641,
+    "longitude": 125.1735,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Sightseeing",
+      "Hiking"
+    ],
+    "description": "Crater lake near the top of Mt. Cabalian, on the border of San Juan and Anahawan, reached by a demanding forest trek with blue-green volcanic water as the reward.",
+    "confirmCheck": "check location",
+    "note": "Lake straddles San Juan and Anahawan; pin is San Juan town.",
+    "sources": [
+      "sites.google.com (Provincial Tourism)",
+      "wikipedia.org"
+    ],
+    "id": 51,
+    "slug": "lake-danao",
+    "photo": "/spots/lake-danao.jpg"
+  },
+  {
+    "name": "Mama Mary Shrine (Jalleca Hills)",
+    "municipality": "Maasin City",
+    "barangay": "Mantahan",
+    "address": "Brgy. Mantahan, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage",
+      "Culture"
+    ],
+    "activities": [
+      "Pilgrimage",
+      "Sightseeing"
+    ],
+    "description": "36 ft Our Lady of the Assumption statue on a hilltop about 310 ft above sea level, reached by more than 300 steps.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 52,
+    "slug": "mama-mary-shrine-jalleca-hills",
+    "photo": "/spots/mama-mary-shrine-jalleca-hills.jpg"
+  },
+  {
+    "name": "Sto. Niño Shrine on Pagatpat Islet",
+    "municipality": "Maasin City",
+    "barangay": "Mahayahay",
+    "address": "Brgy. Mahayahay, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage",
+      "Culture"
+    ],
+    "activities": [
+      "Pilgrimage",
+      "Boat ride"
+    ],
+    "description": "Shrine on a small islet, a short pumpboat ride from Sitio Pangpang after a 10-minute walk from the national highway.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 53,
+    "slug": "sto-nino-shrine-on-pagatpat-islet",
+    "photo": "/spots/sto-nino-shrine-on-pagatpat-islet.jpg"
+  },
+  {
+    "name": "Abiera's Museum",
+    "municipality": "Maasin City",
+    "barangay": "Tunga-Tunga",
+    "address": "Brgy. Tunga-Tunga, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Culture",
+      "Heritage"
+    ],
+    "activities": [
+      "Museum visit"
+    ],
+    "description": "Private museum of local collector Salvador \"Boy\" Abiera: ancient artifacts, fossils, a burial jar, Chinese porcelain, old weapons, shells and preserved wildlife.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "trip101.com",
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 54,
+    "slug": "abiera-s-museum",
+    "photo": "/spots/abiera-s-museum.jpg"
+  },
+  {
+    "name": "Hapitan Beach and Mangrove Eco-Forest Park",
+    "municipality": "Maasin City",
+    "barangay": "Manhilo",
+    "address": "Brgy. Manhilo, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Nature"
+    ],
+    "activities": [
+      "Swimming",
+      "Picnic"
+    ],
+    "description": "Summer hangout with both sea and fresh water, 10-15 minutes by road from Maasin.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 55,
+    "slug": "hapitan-beach-and-mangrove-eco-forest-park",
+    "photo": "/spots/hapitan-beach-and-mangrove-eco-forest-park.jpg"
+  },
+  {
+    "name": "Maasin City Zoo (Danao Forest Park)",
+    "municipality": "Maasin City",
+    "barangay": "Malapoc Norte",
+    "address": "Brgy. Malapoc Norte, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Culture"
+    ],
+    "activities": [
+      "Wildlife viewing",
+      "Study tour"
+    ],
+    "description": "Animal park inside Camp Danao, about 30 minutes from the city center, with lions, tigers, crocodiles, tarsiers, camels and other animals.",
+    "confirmCheck": "check location",
+    "note": "Official page puts it in Sitio Danao, Malapoc Norte.",
+    "sources": [
+      "sites.google.com (Provincial Tourism)",
+      "wikipedia.org"
+    ],
+    "id": 56,
+    "slug": "maasin-city-zoo-danao-forest-park",
+    "photo": "/spots/maasin-city-zoo-danao-forest-park.jpg"
+  },
+  {
+    "name": "Santo Niño Parish Church (Malitbog)",
+    "municipality": "Malitbog",
+    "barangay": "",
+    "address": "Malitbog, Southern Leyte",
+    "latitude": 10.1581,
+    "longitude": 125.0012,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage",
+      "Culture"
+    ],
+    "activities": [
+      "Sightseeing",
+      "Pilgrimage"
+    ],
+    "description": "Parish church noted for its local Filipino-style facade and a ceiling painted with religious motifs.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 57,
+    "slug": "santo-nino-parish-church-malitbog",
+    "photo": "/spots/santo-nino-parish-church-malitbog.jpg"
+  },
+  {
+    "name": "Calag-itan Fish Sanctuary",
+    "municipality": "Hinunangan",
+    "barangay": "",
+    "address": "Hinunangan, Southern Leyte",
+    "latitude": 10.3946,
+    "longitude": 125.1985,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Fish feeding",
+      "Snorkeling"
+    ],
+    "description": "Community-run marine protected area where visitors feed fish and snorkel; reachable by road by any vehicle or by public van or bus.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 58,
+    "slug": "calag-itan-fish-sanctuary",
+    "photo": "/spots/calag-itan-fish-sanctuary.jpg"
+  },
+  {
+    "name": "Hinunangan Golden Sand Beach",
+    "municipality": "Hinunangan",
+    "barangay": "Tahusan",
+    "address": "Brgy. Tahusan, Hinunangan, Southern Leyte",
+    "latitude": 10.3946,
+    "longitude": 125.1985,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming",
+      "Skimboarding",
+      "Beach volleyball"
+    ],
+    "description": "About 6 km of powdery golden sand with the best view of the twin islands San Pedro and San Pablo.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 59,
+    "slug": "hinunangan-golden-sand-beach",
+    "photo": "/spots/hinunangan-golden-sand-beach.jpg"
+  },
+  {
+    "name": "Southern Leyte Divers Resort",
+    "municipality": "Macrohon",
+    "barangay": "San Roque",
+    "address": "Brgy. San Roque, Macrohon, Southern Leyte",
+    "latitude": 10.0766,
+    "longitude": 124.9401,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Adventure"
+    ],
+    "activities": [
+      "Diving",
+      "Swimming"
+    ],
+    "description": "Dive resort with sea views in San Roque.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 60,
+    "slug": "southern-leyte-divers-resort",
+    "photo": "/spots/southern-leyte-divers-resort.jpg"
+  },
+  {
+    "name": "Flordeliz Beach Resort",
+    "municipality": "Macrohon",
+    "barangay": "",
+    "address": "Macrohon, Southern Leyte",
+    "latitude": 10.0766,
+    "longitude": 124.9401,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming",
+      "Beach volleyball",
+      "Picnic"
+    ],
+    "description": "White-sand beach resort with grilling stations and nipa-and-bamboo cottages.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 61,
+    "slug": "flordeliz-beach-resort",
+    "photo": "/spots/flordeliz-beach-resort.jpg"
+  },
+  {
+    "name": "Tagbak Marine Park",
+    "municipality": "Liloan",
+    "barangay": "Tabugon",
+    "address": "Brgy. Tabugon, Liloan, Southern Leyte",
+    "latitude": 10.1581,
+    "longitude": 125.1253,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Snorkeling",
+      "Kayaking",
+      "Stand-up paddle",
+      "Diving"
+    ],
+    "description": "Marine park with clear water and healthy reefs, reached by motorboat.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 62,
+    "slug": "tagbak-marine-park",
+    "photo": "/spots/tagbak-marine-park.jpg"
+  },
+  {
+    "name": "Silago Surfing Camp",
+    "municipality": "Silago",
+    "barangay": "",
+    "address": "Silago, Southern Leyte",
+    "latitude": 10.5284,
+    "longitude": 125.1627,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Adventure"
+    ],
+    "activities": [
+      "Surfing",
+      "Camping"
+    ],
+    "description": "Promoted as the surfing capital of Southern Leyte, good for beginners and intermediates and for backpackers who camp.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 63,
+    "slug": "silago-surfing-camp",
+    "photo": "/spots/silago-surfing-camp.jpg"
+  },
+  {
+    "name": "Silago Tropical Rainforest",
+    "municipality": "Silago",
+    "barangay": "",
+    "address": "Silago, Southern Leyte",
+    "latitude": 10.5284,
+    "longitude": 125.1627,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Trekking",
+      "Forest walk"
+    ],
+    "description": "Forest reserve with rich flora and fauna; a tree-top canopy walk is planned as the first facility.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 64,
+    "slug": "silago-tropical-rainforest",
+    "photo": "/spots/silago-tropical-rainforest.jpg"
+  },
+  {
+    "name": "Pelada Rock (Batong Dako)",
+    "municipality": "Silago",
+    "barangay": "Laguma",
+    "address": "Brgy. Laguma, Silago, Southern Leyte",
+    "latitude": 10.5284,
+    "longitude": 125.1627,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Heritage"
+    ],
+    "activities": [
+      "Sightseeing",
+      "Bird watching"
+    ],
+    "description": "Large rock just offshore between Barangays Laguma and Salvacion, used as a camp by the Japanese army in WWII and now home to nesting birds.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 65,
+    "slug": "pelada-rock-batong-dako",
+    "photo": "/spots/pelada-rock-batong-dako.jpg"
+  },
+  {
+    "name": "Mahaba Beach",
+    "municipality": "Padre Burgos",
+    "barangay": "",
+    "address": "Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming",
+      "Snorkeling"
+    ],
+    "description": "Clear, cool-water beach with rock formations at the side and colorful fish a few meters out.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 66,
+    "slug": "mahaba-beach",
+    "photo": "/spots/mahaba-beach.jpg"
+  },
+  {
+    "name": "Sogod Bay Scuba Resort",
+    "municipality": "Padre Burgos",
+    "barangay": "",
+    "address": "Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Adventure"
+    ],
+    "activities": [
+      "Diving",
+      "Whale shark watching"
+    ],
+    "description": "Dive resort a short distance from Padre Burgos town center, with a restaurant and water sports.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 67,
+    "slug": "sogod-bay-scuba-resort",
+    "photo": "/spots/sogod-bay-scuba-resort.jpg"
+  },
+  {
+    "name": "Evashore Beach Resort",
+    "municipality": "Limasawa",
+    "barangay": "",
+    "address": "Limasawa, Southern Leyte",
+    "latitude": 9.9243,
+    "longitude": 125.0744,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming",
+      "Paddle boarding",
+      "Kayaking"
+    ],
+    "description": "Beachfront resort on Limasawa Island.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 68,
+    "slug": "evashore-beach-resort",
+    "photo": "/spots/evashore-beach-resort.jpg"
+  },
+  {
+    "name": "Totoy Peak",
+    "municipality": "Limasawa",
+    "barangay": "Triana",
+    "address": "Brgy. Triana, Limasawa, Southern Leyte",
+    "latitude": 9.9243,
+    "longitude": 125.0744,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Sunset viewing",
+      "Hiking"
+    ],
+    "description": "Viewpoint about 30 minutes from Triana, known for sunsets and views of the sea and nearby barangays.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 69,
+    "slug": "totoy-peak",
+    "photo": "/spots/totoy-peak.jpg"
+  },
+  {
+    "name": "Magellan's Cross Replica (450 steps)",
+    "municipality": "Limasawa",
+    "barangay": "Magallanes",
+    "address": "Brgy. Magallanes, Limasawa, Southern Leyte",
+    "latitude": 9.9243,
+    "longitude": 125.0744,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage",
+      "Culture"
+    ],
+    "activities": [
+      "Pilgrimage",
+      "Hiking"
+    ],
+    "description": "Replica of the cross on a hilltop beside the First Mass Shrine, reached by a 450-step climb with rest stops and a good view.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 70,
+    "slug": "magellan-s-cross-replica-450-steps",
+    "photo": "/spots/magellan-s-cross-replica-450-steps.jpg"
+  },
+  {
+    "name": "Limasawa Island Dive Sites",
+    "municipality": "Limasawa",
+    "barangay": "",
+    "address": "Limasawa, Southern Leyte",
+    "latitude": 9.9243,
+    "longitude": 125.0744,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Nature"
+    ],
+    "activities": [
+      "Diving",
+      "Snorkeling"
+    ],
+    "description": "Walls, drop-offs and fan corals with sites for beginners too; the official site groups them with Padre Burgos dives.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 71,
+    "slug": "limasawa-island-dive-sites",
+    "photo": "/spots/limasawa-island-dive-sites.jpg"
+  },
+  {
+    "name": "Naputjukan Underwater Cave",
+    "municipality": "Hinundayan",
+    "barangay": "An-an",
+    "address": "Brgy. An-an, Hinundayan, Southern Leyte",
+    "latitude": 10.3511,
+    "longitude": 125.251,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Cave visit",
+      "Swimming"
+    ],
+    "description": "Sea cave of roughly 200 sq m with a white-sand beach, stalagmites and arch-like stalactites, entered by banca through a sea-facing opening.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 72,
+    "slug": "naputjukan-underwater-cave",
+    "photo": "/spots/naputjukan-underwater-cave.jpg"
+  },
+  {
+    "name": "Napandong Rock Formation",
+    "municipality": "Hinundayan",
+    "barangay": "An-an",
+    "address": "Brgy. An-an, Hinundayan, Southern Leyte",
+    "latitude": 10.3511,
+    "longitude": 125.251,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Sightseeing",
+      "Photography"
+    ],
+    "description": "Canopy-like rock formation along a cliff side.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 73,
+    "slug": "napandong-rock-formation",
+    "photo": "/spots/napandong-rock-formation.jpg"
+  },
+  {
+    "name": "Catbawan Waterfalls Safari",
+    "municipality": "Pintuyan",
+    "barangay": "Catbawan",
+    "address": "Brgy. Catbawan, Pintuyan, Southern Leyte",
+    "latitude": 9.9446,
+    "longitude": 125.2492,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Waterfall hiking",
+      "Swimming"
+    ],
+    "description": "Seven different waterfalls within less than an hour, with green scenery and challenging trails.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 74,
+    "slug": "catbawan-waterfalls-safari",
+    "photo": "/spots/catbawan-waterfalls-safari.jpg"
+  },
+  {
+    "name": "Guinsaugon Eco-adventure National Park (Ground Zero)",
+    "municipality": "Saint Bernard",
+    "barangay": "Guinsaugon",
+    "address": "Brgy. Guinsaugon, Saint Bernard, Southern Leyte",
+    "latitude": 10.2801,
+    "longitude": 125.1383,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage",
+      "Nature"
+    ],
+    "activities": [
+      "Memorial visit",
+      "Trekking"
+    ],
+    "description": "Memorial site of the February 2006 landslide that buried the village; declared a national park, visitors light candles and trek, and the last stretch is on foot.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)",
+      "wikipedia.org"
+    ],
+    "id": 75,
+    "slug": "guinsaugon-eco-adventure-national-park-ground-zero",
+    "photo": "/spots/guinsaugon-eco-adventure-national-park-ground-zero.jpg"
+  },
+  {
+    "name": "Bosong-bosong Spring and Tinugpahan Falls",
+    "municipality": "Tomas Oppus",
+    "barangay": "Mapgap",
+    "address": "Brgy. Mapgap, Tomas Oppus, Southern Leyte",
+    "latitude": 10.2548,
+    "longitude": 124.9856,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "River trekking",
+      "Swimming"
+    ],
+    "description": "Newly developed spring grove, with a two-hour river trek to Tinugpahan Falls and its arena-like pool.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)",
+      "steemit.steemapps.com (eco-tourism list)"
+    ],
+    "id": 76,
+    "slug": "bosong-bosong-spring-and-tinugpahan-falls",
+    "photo": "/spots/bosong-bosong-spring-and-tinugpahan-falls.jpg"
+  },
+  {
+    "name": "Mainit Hot Spring",
+    "municipality": "Anahawan",
+    "barangay": "",
+    "address": "Anahawan, Southern Leyte",
+    "latitude": 10.274,
+    "longitude": 125.2578,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Hot spring bathing"
+    ],
+    "description": "Sulfuric hot spring on Mt. Cabalian, about 63.4-63.9 C, believed to be medicinal.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 77,
+    "slug": "mainit-hot-spring",
+    "photo": "/spots/mainit-hot-spring.jpg"
+  },
+  {
+    "name": "Mt. Cabalian Trail",
+    "municipality": "Anahawan",
+    "barangay": "",
+    "address": "Anahawan, Southern Leyte",
+    "latitude": 10.274,
+    "longitude": 125.2578,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Hiking",
+      "Trekking"
+    ],
+    "description": "Forest trail to Lake Danao on the volcanic Mt. Cabalian, shared with San Juan.",
+    "confirmCheck": "check location",
+    "note": "Mountain spans Anahawan and San Juan.",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 78,
+    "slug": "mt-cabalian-trail",
+    "photo": "/spots/mt-cabalian-trail.jpg"
+  },
+  {
+    "name": "San Francisco Javier Pilgrims Center",
+    "municipality": "Maasin City",
+    "barangay": "Hanginan",
+    "address": "Brgy. Hanginan, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Heritage",
+      "Adventure"
+    ],
+    "activities": [
+      "Pilgrimage",
+      "Trekking"
+    ],
+    "description": "Hilltop shrine reached by a trek of two hours or more from Brgy. Isagani; the Hanginan trail is said to be the highest point of the city and was a Spanish-era watchpoint.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "trip101.com"
+    ],
+    "id": 79,
+    "slug": "san-francisco-javier-pilgrims-center",
+    "photo": "/spots/san-francisco-javier-pilgrims-center.jpg"
+  },
+  {
+    "name": "Sagpun Falls",
+    "municipality": "Maasin City",
+    "barangay": "Ibarra",
+    "address": "Brgy. Ibarra, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Swimming"
+    ],
+    "description": "Waterfall in Barangay Ibarra.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "trip101.com"
+    ],
+    "id": 80,
+    "slug": "sagpun-falls",
+    "photo": "/spots/sagpun-falls.jpg"
+  },
+  {
+    "name": "Tunga-Tunga Beach",
+    "municipality": "Maasin City",
+    "barangay": "Tunga-Tunga",
+    "address": "Brgy. Tunga-Tunga, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming"
+    ],
+    "description": "About 1,000 sq m of white sand, listed as one of the most popular beaches in Maasin.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "trip101.com"
+    ],
+    "id": 81,
+    "slug": "tunga-tunga-beach",
+    "photo": "/spots/tunga-tunga-beach.jpg"
+  },
+  {
+    "name": "Little Denmark Beach",
+    "municipality": "Maasin City",
+    "barangay": "Bilibol",
+    "address": "Brgy. Bilibol, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming"
+    ],
+    "description": "Beach at Sitio Panas, Barangay Bilibol.",
+    "confirmCheck": "",
+    "note": "",
+    "sources": [
+      "trip101.com"
+    ],
+    "id": 82,
+    "slug": "little-denmark-beach",
+    "photo": "/spots/little-denmark-beach.jpg"
+  },
+  {
+    "name": "Mercado Beach",
+    "municipality": "Maasin City",
+    "barangay": "Ibarra",
+    "address": "Brgy. Ibarra, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming"
+    ],
+    "description": "Beach in Barangay Ibarra.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "trip101.com"
+    ],
+    "id": 83,
+    "slug": "mercado-beach",
+    "photo": "/spots/mercado-beach.jpg"
+  },
+  {
+    "name": "Talisay Beach",
+    "municipality": "Maasin City",
+    "barangay": "Ibarra",
+    "address": "Brgy. Ibarra, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming"
+    ],
+    "description": "Beach in Barangay Ibarra.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "trip101.com"
+    ],
+    "id": 84,
+    "slug": "talisay-beach",
+    "photo": "/spots/talisay-beach.jpg"
+  },
+  {
+    "name": "Dakong Bato sa Pugaling",
+    "municipality": "Maasin City",
+    "barangay": "Isagani",
+    "address": "Brgy. Isagani, Maasin City, Southern Leyte",
+    "latitude": 10.1335,
+    "longitude": 124.846,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Nature"
+    ],
+    "activities": [
+      "Swimming",
+      "Sightseeing"
+    ],
+    "description": "Beach and rock spot in Barangay Isagani.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "trip101.com"
+    ],
+    "id": 85,
+    "slug": "dakong-bato-sa-pugaling",
+    "photo": "/spots/dakong-bato-sa-pugaling.jpg"
+  },
+  {
+    "name": "Bitu-on Beach",
+    "municipality": "Liloan",
+    "barangay": "San Roque",
+    "address": "Brgy. San Roque, Liloan, Southern Leyte",
+    "latitude": 10.1581,
+    "longitude": 125.1253,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach"
+    ],
+    "activities": [
+      "Swimming",
+      "Relaxing"
+    ],
+    "description": "Beach in Barangay San Roque, Liloan, listed in older provincial notes and on Wikivoyage.",
+    "confirmCheck": "check location",
+    "note": "Older blog source; confirm the barangay.",
+    "sources": [
+      "edwardarlu.blogspot.com",
+      "de.wikivoyage.org"
+    ],
+    "id": 86,
+    "slug": "bitu-on-beach",
+    "photo": "/spots/bitu-on-beach.jpg"
+  },
+  {
+    "name": "Demoloc Caves",
+    "municipality": "Malitbog",
+    "barangay": "",
+    "address": "Malitbog, Southern Leyte",
+    "latitude": 10.1581,
+    "longitude": 125.0012,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Cave exploring"
+    ],
+    "description": "Caves in Malitbog that appear among the top places listed for the town.",
+    "confirmCheck": "check location",
+    "note": "Only one source and no detail; confirm barangay and access.",
+    "sources": [
+      "wanderlog.com"
+    ],
+    "id": 87,
+    "slug": "demoloc-caves",
+    "photo": "/spots/demoloc-caves.jpg"
+  },
+  {
+    "name": "Lum-an Falls",
+    "municipality": "Sogod",
+    "barangay": "",
+    "address": "Sogod, Southern Leyte",
+    "latitude": 10.3856,
+    "longitude": 124.9806,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Waterfall viewing",
+      "Swimming"
+    ],
+    "description": "Falls of about 60 m, around 12 km beyond Magsuhot Park according to the provincial tourism page.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)"
+    ],
+    "id": 88,
+    "slug": "lum-an-falls",
+    "photo": "/spots/lum-an-falls.jpg"
+  },
+  {
+    "name": "Mahayhay Falls",
+    "municipality": "Sogod",
+    "barangay": "",
+    "address": "Sogod, Southern Leyte",
+    "latitude": 10.3856,
+    "longitude": 124.9806,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Waterfall viewing",
+      "Swimming"
+    ],
+    "description": "Falls of about 60 m near Lum-an Falls; Wanderlog lists it as one of Sogod's best-known places.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "sites.google.com (Provincial Tourism)",
+      "wanderlog.com"
+    ],
+    "id": 89,
+    "slug": "mahayhay-falls",
+    "photo": "/spots/mahayhay-falls.jpg"
+  },
+  {
+    "name": "Talisay (Hinunangan)",
+    "municipality": "Hinunangan",
+    "barangay": "Talisay",
+    "address": "Brgy. Talisay, Hinunangan, Southern Leyte",
+    "latitude": 10.3946,
+    "longitude": 125.1985,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Beach",
+      "Nature"
+    ],
+    "activities": [
+      "Sightseeing"
+    ],
+    "description": "Named alongside Tahusan and the twin islands as a tourist place of Hinunangan.",
+    "confirmCheck": "check location",
+    "note": "Barangay assumed from the name; confirm what visitors do there.",
+    "sources": [
+      "wikipedia.org"
+    ],
+    "id": 90,
+    "slug": "talisay-hinunangan",
+    "photo": "/spots/talisay-hinunangan.jpg"
+  },
+  {
+    "name": "Ilijan Point",
+    "municipality": "San Francisco",
+    "barangay": "",
+    "address": "San Francisco, Southern Leyte",
+    "latitude": 10.0575,
+    "longitude": 125.1576,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Nature"
+    ],
+    "activities": [
+      "Snorkeling",
+      "Diving"
+    ],
+    "description": "Point near the Napantao sanctuary where snorkelers and divers see many fish and sea turtles.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "trip101.com",
+      "touristspotsfinder.com"
+    ],
+    "id": 91,
+    "slug": "ilijan-point",
+    "photo": "/spots/ilijan-point.jpg"
+  },
+  {
+    "name": "Sogod Bay Scuba Resort House Reef (Max Climax)",
+    "municipality": "Padre Burgos",
+    "barangay": "",
+    "address": "Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Nature"
+    ],
+    "activities": [
+      "Diving",
+      "Night diving"
+    ],
+    "description": "Wall dive in front of the resort, from about 8 m down to 45 m, with hard and soft corals, sweetlips, snappers, crabs and shrimps; strong currents are possible and the shore entry is rough.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "uwphotographyguide.com"
+    ],
+    "id": 92,
+    "slug": "sogod-bay-scuba-resort-house-reef-max-climax",
+    "photo": "/spots/sogod-bay-scuba-resort-house-reef-max-climax.jpg"
+  },
+  {
+    "name": "Little Lembeh Dive Site",
+    "municipality": "Padre Burgos",
+    "barangay": "",
+    "address": "Padre Burgos, Southern Leyte",
+    "latitude": 10.0296,
+    "longitude": 125.017,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Nature"
+    ],
+    "activities": [
+      "Muck diving",
+      "Diving"
+    ],
+    "description": "Muck-diving site marked by stilt huts, about 30 minutes by boat north of Padre Burgos, with pipefish, seahorses, pegasus fish and nudibranchs over black sand.",
+    "confirmCheck": "check location",
+    "note": "Exact town not stated; pin is Padre Burgos as the reference point.",
+    "sources": [
+      "uwphotographyguide.com"
+    ],
+    "id": 93,
+    "slug": "little-lembeh-dive-site",
+    "photo": "/spots/little-lembeh-dive-site.jpg"
+  },
+  {
+    "name": "Zack's Cove (Limasawa)",
+    "municipality": "Limasawa",
+    "barangay": "",
+    "address": "Limasawa, Southern Leyte",
+    "latitude": 9.9243,
+    "longitude": 125.0744,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Adventure",
+      "Nature"
+    ],
+    "activities": [
+      "Diving",
+      "Whale shark watching"
+    ],
+    "description": "One of Limasawa's two main dive sites with Adrian's Cove, known for reefscapes and a good chance of whale sharks.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "uwphotographyguide.com"
+    ],
+    "id": 94,
+    "slug": "zack-s-cove-limasawa",
+    "photo": "/spots/zack-s-cove-limasawa.jpg"
+  },
+  {
+    "name": "Dan-an Falls",
+    "municipality": "Pintuyan",
+    "barangay": "",
+    "address": "Pintuyan, Southern Leyte",
+    "latitude": 9.9446,
+    "longitude": 125.2492,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Waterfall visit",
+      "Swimming"
+    ],
+    "description": "Waterfall mentioned by travelers around Pintuyan on Panaon Island.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "islandhoppinginthephilippines.com"
+    ],
+    "id": 95,
+    "slug": "dan-an-falls",
+    "photo": "/spots/dan-an-falls.jpg"
+  },
+  {
+    "name": "Tag-linaw Falls",
+    "municipality": "Pintuyan",
+    "barangay": "",
+    "address": "Pintuyan, Southern Leyte",
+    "latitude": 9.9446,
+    "longitude": 125.2492,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Waterfall visit",
+      "Swimming"
+    ],
+    "description": "Falls shown in a Pintuyan travel guide.",
+    "confirmCheck": "check location",
+    "note": "Name read from a photo caption; confirm spelling and location.",
+    "sources": [
+      "islandhoppinginthephilippines.com"
+    ],
+    "id": 96,
+    "slug": "tag-linaw-falls",
+    "photo": "/spots/tag-linaw-falls.jpg"
+  },
+  {
+    "name": "Caningag Viewpoint",
+    "municipality": "Pintuyan",
+    "barangay": "Caningag",
+    "address": "Brgy. Caningag, Pintuyan, Southern Leyte",
+    "latitude": 9.9446,
+    "longitude": 125.2492,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Sightseeing",
+      "Photography"
+    ],
+    "description": "Scenic viewpoint around Pintuyan.",
+    "confirmCheck": "check location",
+    "note": "Barangay assumed from the name; confirm.",
+    "sources": [
+      "islandhoppinginthephilippines.com"
+    ],
+    "id": 97,
+    "slug": "caningag-viewpoint",
+    "photo": "/spots/caningag-viewpoint.jpg"
+  },
+  {
+    "name": "Son-ok Peak",
+    "municipality": "Pintuyan",
+    "barangay": "Son-ok",
+    "address": "Brgy. Son-ok, Pintuyan, Southern Leyte",
+    "latitude": 9.9446,
+    "longitude": 125.2492,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature",
+      "Adventure"
+    ],
+    "activities": [
+      "Hiking",
+      "Sightseeing"
+    ],
+    "description": "Hill and peak near the Son-ok marine sanctuary, mentioned by travelers around Pintuyan.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "islandhoppinginthephilippines.com"
+    ],
+    "id": 98,
+    "slug": "son-ok-peak",
+    "photo": "/spots/son-ok-peak.jpg"
+  },
+  {
+    "name": "Luman Falls",
+    "municipality": "San Juan",
+    "barangay": "",
+    "address": "San Juan, Southern Leyte",
+    "latitude": 10.2641,
+    "longitude": 125.1735,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Nature"
+    ],
+    "activities": [
+      "Waterfall visit",
+      "Swimming"
+    ],
+    "description": "Falls listed among the best-known sights around San Juan.",
+    "confirmCheck": "check location",
+    "note": "One blog also places Lum-an Falls near Sogod; these may be different falls.",
+    "sources": [
+      "expedia.com"
+    ],
+    "id": 99,
+    "slug": "luman-falls",
+    "photo": "/spots/luman-falls.jpg"
+  },
+  {
+    "name": "San Juan Children's Park",
+    "municipality": "San Juan",
+    "barangay": "",
+    "address": "San Juan, Southern Leyte",
+    "latitude": 10.2641,
+    "longitude": 125.1735,
+    "coordPrecision": "town center (Wikipedia)",
+    "categories": [
+      "Culture"
+    ],
+    "activities": [
+      "Picnic",
+      "Family outing"
+    ],
+    "description": "Town park listed among San Juan's sights.",
+    "confirmCheck": "check location",
+    "note": "",
+    "sources": [
+      "expedia.com"
+    ],
+    "id": 100,
+    "slug": "san-juan-children-s-park",
+    "photo": "/spots/san-juan-children-s-park.jpg"
+  }
+]
